@@ -1,0 +1,136 @@
+c:\users\samir\source\repos\Univer\Univer\bin\Debug\Univer.exe.config
+c:\users\samir\source\repos\Univer\Univer\bin\Debug\Univer.exe
+c:\users\samir\source\repos\Univer\Univer\bin\Debug\Univer.pdb
+c:\users\samir\source\repos\Univer\Univer\obj\Debug\Univer.csprojResolveAssemblyReference.cache
+c:\users\samir\source\repos\Univer\Univer\obj\Debug\Univer.HomePage.resources
+c:\users\samir\source\repos\Univer\Univer\obj\Debug\Univer.Properties.Resources.resources
+c:\users\samir\source\repos\Univer\Univer\obj\Debug\Univer.csproj.GenerateResource.Cache
+c:\users\samir\source\repos\Univer\Univer\obj\Debug\Univer.csproj.CoreCompileInputs.cache
+c:\users\samir\source\repos\Univer\Univer\obj\Debug\Univer.exe
+c:\users\samir\source\repos\Univer\Univer\obj\Debug\Univer.pdb
+c:\users\samir\source\repos\Univer\Univer\bin\Debug\EntityFramework.dll
+c:\users\samir\source\repos\Univer\Univer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\samir\source\repos\Univer\Univer\bin\Debug\EntityFramework.xml
+c:\users\samir\source\repos\Univer\Univer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\samir\source\repos\Univer\Univer\obj\Debug\Univer.AdminPanel.resources
+c:\users\samir\source\repos\Univer\Univer\obj\Debug\Univer.AddSubjects.resources
+c:\users\samir\source\repos\Univer\Univer\obj\Debug\Univer.AddGroups.resources
+C:\Users\Samir\source\repos\Univer\Univer\obj\Debug\Univer.AddTeachers.resources
+C:\Users\Samir\source\repos\Univer\Univer\obj\Debug\Univer.AddStudents.resources
+C:\Users\Samir\source\repos\Univer\Univer\obj\Debug\Univer.TeacherEdit.resources
+C:\Users\Samir\source\repos\Univer\Univer\obj\Debug\Univer.TeachersPanel.resources
+C:\Users\Samir\source\repos\Univer\Univer\obj\Debug\Univer.StudentsPage.resources
+C:\Users\P204\Desktop\LAST\Univer\Univer\bin\Debug\Univer.exe.config
+C:\Users\P204\Desktop\LAST\Univer\Univer\bin\Debug\Univer.exe
+C:\Users\P204\Desktop\LAST\Univer\Univer\bin\Debug\Univer.pdb
+C:\Users\P204\Desktop\LAST\Univer\Univer\bin\Debug\EntityFramework.dll
+C:\Users\P204\Desktop\LAST\Univer\Univer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\P204\Desktop\LAST\Univer\Univer\bin\Debug\EntityFramework.xml
+C:\Users\P204\Desktop\LAST\Univer\Univer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\P204\Desktop\LAST\Univer\Univer\obj\Debug\Univer.AddGroups.resources
+C:\Users\P204\Desktop\LAST\Univer\Univer\obj\Debug\Univer.AddStudents.resources
+C:\Users\P204\Desktop\LAST\Univer\Univer\obj\Debug\Univer.AddSubjects.resources
+C:\Users\P204\Desktop\LAST\Univer\Univer\obj\Debug\Univer.AddTeachers.resources
+C:\Users\P204\Desktop\LAST\Univer\Univer\obj\Debug\Univer.AdminPanel.resources
+C:\Users\P204\Desktop\LAST\Univer\Univer\obj\Debug\Univer.HomePage.resources
+C:\Users\P204\Desktop\LAST\Univer\Univer\obj\Debug\Univer.Properties.Resources.resources
+C:\Users\P204\Desktop\LAST\Univer\Univer\obj\Debug\Univer.StudentsPage.resources
+C:\Users\P204\Desktop\LAST\Univer\Univer\obj\Debug\Univer.TeacherEdit.resources
+C:\Users\P204\Desktop\LAST\Univer\Univer\obj\Debug\Univer.TeachersPanel.resources
+C:\Users\P204\Desktop\LAST\Univer\Univer\obj\Debug\Univer.csproj.GenerateResource.Cache
+C:\Users\P204\Desktop\LAST\Univer\Univer\obj\Debug\Univer.csproj.CoreCompileInputs.cache
+C:\Users\P204\Desktop\LAST\Univer\Univer\obj\Debug\Univer.exe
+C:\Users\P204\Desktop\LAST\Univer\Univer\obj\Debug\Univer.pdb
+C:\Users\P204\Desktop\LAST\Univer\Univer\obj\Debug\Univer.csprojResolveAssemblyReference.cache
+C:\Users\Samir\Desktop\Home\Univer\Univer\bin\Debug\Univer.exe.config
+C:\Users\Samir\Desktop\Home\Univer\Univer\bin\Debug\Univer.exe
+C:\Users\Samir\Desktop\Home\Univer\Univer\bin\Debug\Univer.pdb
+C:\Users\Samir\Desktop\Home\Univer\Univer\bin\Debug\EntityFramework.dll
+C:\Users\Samir\Desktop\Home\Univer\Univer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Samir\Desktop\Home\Univer\Univer\bin\Debug\EntityFramework.xml
+C:\Users\Samir\Desktop\Home\Univer\Univer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Samir\Desktop\Home\Univer\Univer\obj\Debug\Univer.AddGroups.resources
+C:\Users\Samir\Desktop\Home\Univer\Univer\obj\Debug\Univer.AddStudents.resources
+C:\Users\Samir\Desktop\Home\Univer\Univer\obj\Debug\Univer.AddSubjects.resources
+C:\Users\Samir\Desktop\Home\Univer\Univer\obj\Debug\Univer.AddTeachers.resources
+C:\Users\Samir\Desktop\Home\Univer\Univer\obj\Debug\Univer.AdminPanel.resources
+C:\Users\Samir\Desktop\Home\Univer\Univer\obj\Debug\Univer.HomePage.resources
+C:\Users\Samir\Desktop\Home\Univer\Univer\obj\Debug\Univer.Properties.Resources.resources
+C:\Users\Samir\Desktop\Home\Univer\Univer\obj\Debug\Univer.StudentsPage.resources
+C:\Users\Samir\Desktop\Home\Univer\Univer\obj\Debug\Univer.TeacherEdit.resources
+C:\Users\Samir\Desktop\Home\Univer\Univer\obj\Debug\Univer.TeachersPanel.resources
+C:\Users\Samir\Desktop\Home\Univer\Univer\obj\Debug\Univer.csproj.GenerateResource.Cache
+C:\Users\Samir\Desktop\Home\Univer\Univer\obj\Debug\Univer.csproj.CoreCompileInputs.cache
+C:\Users\Samir\Desktop\Home\Univer\Univer\obj\Debug\Univer.exe
+C:\Users\Samir\Desktop\Home\Univer\Univer\obj\Debug\Univer.pdb
+C:\Users\Samir\Desktop\Home\Univer\Univer\obj\Debug\Univer.csprojResolveAssemblyReference.cache
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\bin\Debug\Univer.exe.config
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\bin\Debug\Univer.exe
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\bin\Debug\Univer.pdb
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\bin\Debug\EntityFramework.dll
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\bin\Debug\EntityFramework.xml
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.AddGroups.resources
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.AddStudents.resources
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.AddSubjects.resources
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.AddTeachers.resources
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.AdminPanel.resources
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.HomePage.resources
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.Properties.Resources.resources
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.StudentsPage.resources
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.TeacherEdit.resources
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.TeachersPanel.resources
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.csproj.GenerateResource.Cache
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.csproj.CoreCompileInputs.cache
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.exe
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.pdb
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.csprojResolveAssemblyReference.cache
+C:\Users\P204\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.goExam.resources
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\bin\Debug\Univer.exe.config
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\bin\Debug\Univer.exe
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\bin\Debug\Univer.pdb
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\bin\Debug\EntityFramework.dll
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\bin\Debug\EntityFramework.xml
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.csprojResolveAssemblyReference.cache
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.AddGroups.resources
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.AddStudents.resources
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.AddSubjects.resources
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.AddTeachers.resources
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.AdminPanel.resources
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.goExam.resources
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.HomePage.resources
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.Properties.Resources.resources
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.StudentsPage.resources
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.TeacherEdit.resources
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.TeachersPanel.resources
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.csproj.GenerateResource.Cache
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.csproj.CoreCompileInputs.cache
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.exe
+C:\Users\Samir\Desktop\forAcademy\Univer\Univer\obj\Debug\Univer.pdb
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\bin\Debug\Univer.exe.config
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\bin\Debug\Univer.exe
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\bin\Debug\Univer.pdb
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\bin\Debug\EntityFramework.dll
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\bin\Debug\EntityFramework.xml
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\obj\Debug\Univer.csprojAssemblyReference.cache
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\obj\Debug\Univer.AddGroups.resources
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\obj\Debug\Univer.AddStudents.resources
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\obj\Debug\Univer.AddSubjects.resources
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\obj\Debug\Univer.AddTeachers.resources
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\obj\Debug\Univer.AdminPanel.resources
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\obj\Debug\Univer.goExam.resources
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\obj\Debug\Univer.HomePage.resources
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\obj\Debug\Univer.Properties.Resources.resources
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\obj\Debug\Univer.StudentsPage.resources
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\obj\Debug\Univer.TeacherEdit.resources
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\obj\Debug\Univer.TeachersPanel.resources
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\obj\Debug\Univer.csproj.GenerateResource.cache
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\obj\Debug\Univer.csproj.CoreCompileInputs.cache
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\obj\Debug\Univer.csproj.CopyComplete
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\obj\Debug\Univer.exe
+E:\Мои файлы\Программирование\My Projects\University Exam\University Project\Univer\Univer\obj\Debug\Univer.pdb
